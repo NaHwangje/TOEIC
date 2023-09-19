@@ -96,3 +96,69 @@ as well as : 앞뒤문장의 긍정 상태 동일함
 either : 다되는데 접속사만 안됨
 in addition to : 전치사
 ```
+```
+to 부정사를 목적어로 끄는 어휘는 반드시 암기!
+want, wish, hope, decide intend prefer manage afford refuse  
+decline(거절일때만) need fail pormise pretend tend attempt try plan aspire
+```
+```
+주어자리엔 she / hers 둘다 가능
+소유격일시 그녀가 가진 것으로 됨!
+```
+```
+be allowed 뒤에 to 는 to+v 
+아무 어휘나 특정 전치사랑 못다닌다.
+be restricted to = be limited to
+be devoted to / be dedicated to (+ing/N)
+be interested to / be propped against
+be quipped with / be acquainted with
+be intended for / be designed for (to +v 도 가능)
+be (re)scheduled for (to+v도 가능)
+be entitled to (to+v도 가능)
+```
+```
+dress casually /appropriately(properly) / neatly
+```
+```
+특정 전치사를 선호하는 자동사가 있다 (ex. depend on/upon)
+speak about/to/with
+talk about/to/with
+concide with / consist of / deal with /cope with / 
+comply with / comform to / search for / participate in
+allow for(고려하다) / approve of(승인) /factor in(고려)
+``` 
+```
+more은 품사 결정권이 애매하다. 
+make / find / keep / consider / deem /render
+```
+```
+career in 처럼 특정 전치사를 선호하는 어휘가 아닐때는 of 가 가장 보편적임
+```
+```
+과거분사는 명사 수식
+```
+```
+습관적으로 붙는 어휘의 조합
+boost = stimulate 
+resolve + problem / matter
+stimulate / boost + economy
+```
+```
+whoever == anyone(those) who
+person (x) a person(o)
+```
+```
+as opposed to 앞 뒤 비슷함! ex. instead of
+as long as 는 접속사
+```
+```
+security reasons/measures/purposes
+국경일 등이 나오면 기리고 준수하는 개념으로 많이쓴느 동사는 observe
+redeem - coupon, cash
+```
+```
+wh 계열이 보기에 있으면 동사 개수 확인 필수!
+```
+```
+soft - rigid
+```
